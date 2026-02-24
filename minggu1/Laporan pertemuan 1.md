@@ -3,7 +3,6 @@
 <h4>Nama : Elsa Marthalinda<h4>
 <h4>NIM : 254107020204
 <h4>Kelas : TI-1G<h4>
-<img src="" width="100%">
 
 ## 1.10. Latihan
 ### 1.10.1 Latihan Konseptual
@@ -47,7 +46,7 @@
 6. Dokumentasikan proses instalasi dengan screenshot key steps
 
 ### Jawaban Latihan 1.3
-1. <img src="Screenshot (155).png" width="100%">
+1. <img src="./Screenshot (155).png" width="100%">
 2. <img src="Screenshot (156).png" width="100%">
 4. <img src="Screenshot 2026-02-24 200320.png" width="100%">
 
