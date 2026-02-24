@@ -195,3 +195,4 @@
 ### Jawaban Latihan 2.G
 1. <img src="Screenshot 2026-02-22 195956.png" width="100%">
     <img src="Screenshot 2026-02-22 200245.png" width="100%">
+    
