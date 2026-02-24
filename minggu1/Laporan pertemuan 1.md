@@ -46,7 +46,7 @@
 6. Dokumentasikan proses instalasi dengan screenshot key steps
 
 ### Jawaban Latihan 1.3
-1. <img src="./Screenshot (155).png" width="100%">
+1. <img src="273c2b23-55b4-4a94-84b6-a500452eab82.jpeg" width="100%">
 2. <img src="Screenshot (156).png" width="100%">
 4. <img src="Screenshot 2026-02-24 200320.png" width="100%">
 
