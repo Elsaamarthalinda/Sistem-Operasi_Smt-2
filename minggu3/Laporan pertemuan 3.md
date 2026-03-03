@@ -1,6 +1,6 @@
 # Laporan pertemuan 3 sistem operasi
 
-<h4>Nama : lsa Marthalinda<h4>
+<h4>Nama : Elsa Marthalinda<h4>
 <h4>NIM : 254107020204<h4>
 <h4>Kelas : TI-1G<h4>
 
